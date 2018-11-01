@@ -92,6 +92,7 @@
     </table>
      <table class="table table-bordered" id="dynamic">
        <tr> 
+         <br>
          <td class="td1">Krievu Valoda<font color=red>*</font><class="form-control"/></td>
          <td><input type=text name="krie[]" id="uroven1" placeholder="Runātprasme" class="form-control name_list" required  /></td>
          <td><input type=text name="krie[]" id="uroven2" placeholder="Lasītprasme " class="form-control name_list" required  /></td>
